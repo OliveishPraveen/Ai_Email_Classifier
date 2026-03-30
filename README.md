@@ -62,7 +62,7 @@ AI-Email-Classifier/
 Due to GitHub size limitations, **model weight files (`model.safetensors`) are not included** in this repository.
 
 👉 Download them from here:
-*(Add your Google Drive / HuggingFace link here)*
+*(https://drive.google.com/drive/folders/1RReb5YVvPsjD6fIfZPHvpZ8zN8lTyyix?usp=sharing)*
 
 After downloading, place them in:
 
