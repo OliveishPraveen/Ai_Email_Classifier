@@ -175,15 +175,3 @@ Response:
 * Database integration (MySQL)
 * Model optimization
 * Cloud deployment
-
----
-
-## 👨‍💻 Author
-
-**Praveen Solanki**
-
----
-
-## 💡 Short Description (for GitHub top bar)
-
-AI-powered email classifier using DistilBERT and rule-based logic to detect category and urgency with FastAPI backend and Streamlit frontend.
