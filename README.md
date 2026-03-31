@@ -32,7 +32,7 @@ It uses a **dual-model architecture**, where separate models are used for catego
 AI-Email-Classifier/
 │
 ├── backend/
-│   └── app.py
+│   └── backend.py
 │
 ├── frontend/
 │   └── app.py
